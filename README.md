@@ -7,7 +7,7 @@ Application that allows describing the health situation of covid 19 in Colombia 
 * [FastAPI](https://fastapi.tiangolo.com/) - web framework for building APIs with Python
 * [Next.js](https://nextjs.org/) - The React Framework
 
-## Autores ✒️
+## Authors ✒️
 
 * **[Sebastian Augusto Baez Ramos](https://www.linkedin.com/in/sebastian-baez-b875b3200/)** - *Backend Developer*
 * **[Diego Andres Cabrera Rojas](https://www.linkedin.com/in/diego-andres-rojas/)** - *FullStack Developer* 
