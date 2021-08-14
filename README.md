@@ -1,11 +1,10 @@
-# InfoCovid
+# ChatNet
 
-Application that allows describing the health situation of covid 19 in Colombia through the analysis carried out on a set of data obtained from a data source in the Colombian state. This analysis will be carried out from a stochastic point of view, adjusting the data to a probabilistic model that allows simulations to be carried out for the forecast of results.
+Application for the exchange of messages between two users in a network, detailing the step by step in the transmission of the messages, the protocols, technologies and devices involved during the transmission.
 
 ## Built with 🛠️
 
-* [FastAPI](https://fastapi.tiangolo.com/) - web framework for building APIs with Python
-* [Next.js](https://nextjs.org/) - The React Framework
+* [Next.js](https://nextjs.org/) - The React Framework for web applications
 
 ## Authors ✒️
 
