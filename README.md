@@ -1,4 +1,4 @@
-# Covid App
+# InfoCovid
 
 Application that allows describing the health situation of covid 19 in Colombia through the analysis carried out on a set of data obtained from a data source in the Colombian state. This analysis will be carried out from a stochastic point of view, adjusting the data to a probabilistic model that allows simulations to be carried out for the forecast of results.
 
